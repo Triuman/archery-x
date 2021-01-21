@@ -1,0 +1,11 @@
+S:\My_Projects\Unity\Archery X\Server\ArcheryXServer\bin\Debug\netcoreapp2.1\ArcheryXServer.deps.json
+S:\My_Projects\Unity\Archery X\Server\ArcheryXServer\bin\Debug\netcoreapp2.1\ArcheryXServer.runtimeconfig.json
+S:\My_Projects\Unity\Archery X\Server\ArcheryXServer\bin\Debug\netcoreapp2.1\ArcheryXServer.runtimeconfig.dev.json
+S:\My_Projects\Unity\Archery X\Server\ArcheryXServer\bin\Debug\netcoreapp2.1\ArcheryXServer.dll
+S:\My_Projects\Unity\Archery X\Server\ArcheryXServer\bin\Debug\netcoreapp2.1\ArcheryXServer.pdb
+S:\My_Projects\Unity\Archery X\Server\ArcheryXServer\obj\Debug\netcoreapp2.1\ArcheryXServer.csprojAssemblyReference.cache
+S:\My_Projects\Unity\Archery X\Server\ArcheryXServer\obj\Debug\netcoreapp2.1\ArcheryXServer.csproj.CoreCompileInputs.cache
+S:\My_Projects\Unity\Archery X\Server\ArcheryXServer\obj\Debug\netcoreapp2.1\ArcheryXServer.AssemblyInfoInputs.cache
+S:\My_Projects\Unity\Archery X\Server\ArcheryXServer\obj\Debug\netcoreapp2.1\ArcheryXServer.AssemblyInfo.cs
+S:\My_Projects\Unity\Archery X\Server\ArcheryXServer\obj\Debug\netcoreapp2.1\ArcheryXServer.dll
+S:\My_Projects\Unity\Archery X\Server\ArcheryXServer\obj\Debug\netcoreapp2.1\ArcheryXServer.pdb
